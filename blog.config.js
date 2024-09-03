@@ -27,7 +27,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '货代SYMON', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的干饭人🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.lf-symon.com', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '东南亚电商物流, 清关行', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'international, logistics, smart logistics, Guangdong, Indonesia, Malaysia, Philippines, Singapore, overseas warehouse, consolidation warehouse, sea freight, air freight, Indonesia sea route, Indonesia air route, Brazil air logistics, Brazil sea freight, Malaysia sea route, Malaysia air logistics, Philippines logistics, one-stop solution, cross-border shipping, e-commerce logistics, fulfillment services, supply chain management, cargo storage, tracking systems, customs clearance, warehousing solutions, export services, import services, door-to-door delivery, LCL, FCL, time-definite shipping, reliable logistics, cost-effective, fast delivery, customized solutions, online shipping platform, secure logistics, cargo insurance, multi-channel logistics, Asian logistics, Latin American logistics, 24/7 support, cargo tracking, freight forwarding., // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '', // 邮箱地址 例如mail@tangly1024.com
